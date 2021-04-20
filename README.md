@@ -10,9 +10,6 @@ I'm interested in game development primarily. I think this comes from my deep in
 Right now I'm learning Unity and C# to better myself as as game dev and I'm learning advanced data structures and algorithms to better myself as a programmer.
 I would love to collaborate on games, robotics, or bot APIs (Alexa, Discord, etc.)
 
-Inquiries:
-watkins.braedon@gmail.com
-
 <!---
 BraedonWatkins/BraedonWatkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
