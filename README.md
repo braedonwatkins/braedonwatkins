@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BraedonWatkins
+👋 Hi, I’m @BraedonWatkins
+
 I have projects to look at in portfolio if you want to get to know me more by my work.
 
 This is just a generic readme to get to know me better. 
