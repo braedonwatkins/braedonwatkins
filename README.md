@@ -1,4 +1,4 @@
-👋 Hi, I’m @BraedonWatkins
+👋 Hi, I’m Braedon Watkins
 
 I have projects to look at in portfolio if you want to get to know me more by my work.
 
