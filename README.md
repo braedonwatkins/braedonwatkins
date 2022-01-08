@@ -2,11 +2,60 @@
 
 I have projects to look at in portfolio if you want to get to know me more by my work.
 
+## About Me
+My passion lies mostly in programming and game development! I believe this naturally stems from a combination of interests like math and physics to animation and frontend design. <br/>
 
-A little about me:
-I'm primarily interested in game development. This naturally stems from my interest in math, science, programming, but most of all games. Games I love the most are Dungeons & Dragons, Fire Emblem: Sacred Stones, and any Legend of Zelda game. I also love to read fantasy, sci-fi, and non-fiction; My current reads are The Wicked King by Holly Black, The Middle East and Islamic World by Gettleman & Schaar, and (my second read of) Dune by Frank Herbert.
+Currently working on cybersecurity and game development topics in my free time through overthewire and game jams!
 
-Right now I'm focusing my free time to learn more about Unity, C#, and C++ to better myself as as game dev and programmer.
+## Languages
+```C
+#include <stdio.h>
+int main(void){
+  printf("I started coding in C!\nSomehow figured out pointers too.");
+  return NULL;
+}
+```
+
+```Java
+import java.io.*;
+public class Java
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Java is my preferred language these days.");
+    System.out.println("I conquered OOP with it!");
+  }
+}
+```
+
+```C#
+using System;
+using UnityEngine;
+public class CSharp : MonoBehaviour
+{
+  void Start()
+  {
+    Debug.Log("C# is the language I used to learn game dev & unity!");
+  }
+}
+```
+
+```Python
+import numpy as np
+import pandas as pd
+
+print("Learned AI with python! Loving the flexibility of this language!")
+```
+
+---
+
+> > > You miss 100% of the shots you don't take
+> > > 
+> > Wayne Gretzky
+> > 
+> Micheal Scott
+> 
+Braedon Watkins
 
 <!---
 BraedonWatkins/BraedonWatkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
