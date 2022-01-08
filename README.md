@@ -44,7 +44,8 @@ public class CSharp : MonoBehaviour
 import numpy as np
 import pandas as pd
 
-print("Learned AI with python! Loving the flexibility of this language!")
+print("Learned AI and discord bots with python!\n")
+print("Loving the flexibility of this language!")
 ```
 
 ---
