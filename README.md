@@ -7,7 +7,7 @@ My passion lies mostly in programming and game development! I believe this natur
 
 Currently working on cybersecurity and game development topics in my free time through overthewire and game jams!
 
-## Languages
+<!-- ## Languages
 ```C
 #include <stdio.h>
 int main(void){
@@ -57,7 +57,7 @@ print("Loving the flexibility of this language!")
 > Micheal Scott
 > 
 Braedon Watkins
-
+ -->
 <!---
 BraedonWatkins/BraedonWatkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
