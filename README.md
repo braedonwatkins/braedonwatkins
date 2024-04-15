@@ -13,6 +13,9 @@
   </tr>
 </table>
 
-> **Note** I mostly added this readme because I thought the stats thing looked cool!
+<div align="center">
 
-~TODO: Add more cool stuff to my readme 😅~
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hushpillow&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
