@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=braedonwatkins&show_icons=true&theme=dracula" />
+      <img src="https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api?username=braedonwatkins&&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
     </td>
     <td>
       <a href="https://git.io/streak-stats">
